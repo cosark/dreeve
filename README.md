@@ -65,3 +65,6 @@ The kind of road every cyclist and runner loves.
 Start off by showing some ❤️ and give this repo a star. 
 When you are done, head over to the [documentation](https://docs.dreeve.app) to get started with the installation and configuration of Dreeve.
 
+## 🚀 One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Dreeve/)
